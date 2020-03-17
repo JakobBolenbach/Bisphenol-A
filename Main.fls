@@ -138,8 +138,6 @@ INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Vorwort.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Vorwort.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Historisches.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Historisches.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Datenblatt.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Datenblatt.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Freisetzung.aux
@@ -225,9 +223,6 @@ INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Historisches.tex
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Historisches.tex
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Datenblatt.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Datenblatt.tex
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Datenblatt.tex
 OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.tex
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.tex
@@ -244,6 +239,7 @@ INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Fazit.tex
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Fazit.tex
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.bbl
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.bbl
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmtt10.tfm
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Deckblatt.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Deckblatt.aux
@@ -255,8 +251,6 @@ INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Vorwort.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Vorwort.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Historisches.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Historisches.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Datenblatt.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Datenblatt.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Freisetzung.aux
@@ -281,3 +275,5 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt10.pfb
