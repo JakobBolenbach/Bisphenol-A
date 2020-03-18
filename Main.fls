@@ -226,6 +226,17 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.tex
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Plastikgeschirr.jpeg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Plastikgeschirr.jpeg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Plastikgeschirr.jpeg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Plastikgeschirr.jpeg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Plastikgeschirr.jpeg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Konserven.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Konserven.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Konserven.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Konserven.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Konserven.jpg
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcrm1095.tfm
 OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Freisetzung.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Freisetzung.tex
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Freisetzung.tex
@@ -261,6 +272,8 @@ INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Fazit.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Fazit.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.out
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.out
+INPUT C:\Users\jakob\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
+INPUT C:\Users\jakob\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
