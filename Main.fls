@@ -1,20 +1,16 @@
-PWD d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei
+PWD c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A
 INPUT C:\Users\jakob\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.tex
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.log
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.tex
+OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.log
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Vorspann.tex
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Vorspann.tex
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorspann.tex
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorspann.tex
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucs.sty
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucs.sty
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-global.def
@@ -65,115 +61,102 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def
 INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\txtbabel.def
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\ltxcmds\ltxcmds.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdfescape.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdfescape.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\hycolor.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\hycolor.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\xcolor-patch.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\xcolor-patch.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\hopatch.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\hopatch.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\letltxmacro.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\letltxmacro.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\intcalc.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\intcalc.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\etexcmds\etexcmds.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\bitset.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\bitset.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\bigintcalc.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\bigintcalc.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifpdf.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\bitset\bitset.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\bitset\bitset.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\atbegshi\atbegshi.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\atveryend.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\atveryend.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\uniquecounter.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\uniquecounter.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.idx
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Deckblatt.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Deckblatt.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Inhaltsverzeichnis.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Inhaltsverzeichnis.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Eingenständigkeitserklärung.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Eingenständigkeitserklärung.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Vorwort.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Vorwort.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Historisches.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Historisches.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Freisetzung.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Freisetzung.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Politisches.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Politisches.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Fazit.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Fazit.aux
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.aux
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Deckblatt.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Deckblatt.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Inhaltsverzeichnis.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Inhaltsverzeichnis.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Eingenständigkeitserklärung.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Eingenständigkeitserklärung.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorwort.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorwort.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Historisches.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Historisches.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Verwendungszweck.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Verwendungszweck.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Freisetzung.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Freisetzung.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Politisches.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Politisches.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Fazit.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Fazit.aux
+OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.aux
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
 INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\grfext\grfext.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\grfext\grfext.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\refcount.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\refcount.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.out
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.out
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.out
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.out
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.pdf
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.out
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.out
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.out
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Deckblatt.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Deckblatt.tex
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Deckblatt.tex
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\refcount\refcount.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\refcount\refcount.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\gettitlestring\gettitlestring.sty
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
+OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.pdf
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
+OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
+OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Deckblatt.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Deckblatt.tex
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Deckblatt.tex
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmcsc10.tfm
@@ -182,12 +165,12 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmti12.tfm
 INPUT C:\Users\jakob\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Inhaltsverzeichnis.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Inhaltsverzeichnis.tex
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Inhaltsverzeichnis.tex
+OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Inhaltsverzeichnis.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Inhaltsverzeichnis.tex
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Inhaltsverzeichnis.tex
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.toc
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.toc
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.toc
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.toc
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
@@ -210,68 +193,68 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.toc
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Eingenständigkeitserklärung.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Eingenständigkeitserklärung.tex
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Eingenständigkeitserklärung.tex
+OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.toc
+OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Eingenständigkeitserklärung.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Eingenständigkeitserklärung.tex
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Eingenständigkeitserklärung.tex
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Vorwort.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Vorwort.tex
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Vorwort.tex
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Historisches.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Historisches.tex
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Historisches.tex
+OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorwort.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorwort.tex
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorwort.tex
+OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Historisches.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Historisches.tex
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Historisches.tex
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.tex
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.tex
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Plastikgeschirr.jpeg
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Plastikgeschirr.jpeg
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Plastikgeschirr.jpeg
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Plastikgeschirr.jpeg
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Plastikgeschirr.jpeg
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Konserven.jpg
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Konserven.jpg
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Konserven.jpg
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Konserven.jpg
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Konserven.jpg
+OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Verwendungszweck.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Verwendungszweck.tex
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Verwendungszweck.tex
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Plastikgeschirr.jpeg
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Plastikgeschirr.jpeg
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Plastikgeschirr.jpeg
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Plastikgeschirr.jpeg
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Plastikgeschirr.jpeg
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Konserven.jpg
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Konserven.jpg
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Konserven.jpg
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Konserven.jpg
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Konserven.jpg
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcrm1095.tfm
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Freisetzung.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Freisetzung.tex
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Freisetzung.tex
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Politisches.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Politisches.tex
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Politisches.tex
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Interview.tex
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Interview.tex
-OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Fazit.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Fazit.tex
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Fazit.tex
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.bbl
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.bbl
+OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Freisetzung.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Freisetzung.tex
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Freisetzung.tex
+OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Politisches.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Politisches.tex
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Politisches.tex
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Interview.tex
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Interview.tex
+OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Fazit.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Fazit.tex
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Fazit.tex
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.bbl
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.bbl
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmtt10.tfm
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Deckblatt.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Deckblatt.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Inhaltsverzeichnis.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Inhaltsverzeichnis.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Eingenständigkeitserklärung.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Eingenständigkeitserklärung.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Vorwort.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Vorwort.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Historisches.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Historisches.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Verwendungszweck.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Freisetzung.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Freisetzung.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Politisches.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Politisches.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Fazit.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Fazit.aux
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.out
-INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\LatexDatei\Main.out
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Deckblatt.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Deckblatt.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Inhaltsverzeichnis.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Inhaltsverzeichnis.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Eingenständigkeitserklärung.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Eingenständigkeitserklärung.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorwort.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorwort.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Historisches.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Historisches.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Verwendungszweck.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Verwendungszweck.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Freisetzung.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Freisetzung.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Politisches.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Politisches.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Fazit.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Fazit.aux
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
+INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
 INPUT C:\Users\jakob\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\jakob\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
