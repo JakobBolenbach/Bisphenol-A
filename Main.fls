@@ -1,14 +1,14 @@
-PWD c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A
+PWD d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A
 INPUT C:\Users\jakob\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.tex
-OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.log
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.tex
+OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.log
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorspann.tex
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorspann.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Vorspann.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Vorspann.tex
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucs.sty
@@ -111,27 +111,27 @@ INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Deckblatt.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Deckblatt.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Inhaltsverzeichnis.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Inhaltsverzeichnis.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Eingenständigkeitserklärung.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Eingenständigkeitserklärung.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorwort.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorwort.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Historisches.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Historisches.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Verwendungszweck.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Verwendungszweck.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Freisetzung.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Freisetzung.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Politisches.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Politisches.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Fazit.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Fazit.aux
-OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Deckblatt.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Deckblatt.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Inhaltsverzeichnis.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Inhaltsverzeichnis.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Eingenständigkeitserklärung.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Eingenständigkeitserklärung.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Vorwort.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Vorwort.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Historisches.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Historisches.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Verwendungszweck.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Verwendungszweck.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Freisetzung.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Freisetzung.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Politisches.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Politisches.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Fazit.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Fazit.aux
+OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.aux
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
 INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
@@ -146,17 +146,17 @@ INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\refcount\refcount.sty
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\refcount\refcount.sty
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\generic\gettitlestring\gettitlestring.sty
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
-OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.pdf
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
-OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
-OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Deckblatt.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Deckblatt.tex
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Deckblatt.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.out
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.out
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.out
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.out
+OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.pdf
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.out
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.out
+OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.out
+OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Deckblatt.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Deckblatt.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Deckblatt.tex
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmcsc10.tfm
@@ -165,12 +165,12 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmti12.tfm
 INPUT C:\Users\jakob\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Inhaltsverzeichnis.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Inhaltsverzeichnis.tex
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Inhaltsverzeichnis.tex
+OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Inhaltsverzeichnis.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Inhaltsverzeichnis.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Inhaltsverzeichnis.tex
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.toc
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.toc
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.toc
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.toc
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
@@ -193,68 +193,93 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.toc
-OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Eingenständigkeitserklärung.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Eingenständigkeitserklärung.tex
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Eingenständigkeitserklärung.tex
+OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.toc
+OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Eingenständigkeitserklärung.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Eingenständigkeitserklärung.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Eingenständigkeitserklärung.tex
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
-OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorwort.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorwort.tex
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorwort.tex
-OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Historisches.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Historisches.tex
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Historisches.tex
+OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Vorwort.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Vorwort.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Vorwort.tex
+OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Historisches.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Historisches.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Historisches.tex
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Verwendungszweck.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Verwendungszweck.tex
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Verwendungszweck.tex
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Plastikgeschirr.jpeg
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Plastikgeschirr.jpeg
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Plastikgeschirr.jpeg
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Plastikgeschirr.jpeg
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Plastikgeschirr.jpeg
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Konserven.jpg
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Konserven.jpg
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Konserven.jpg
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Konserven.jpg
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Konserven.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Darstellung.png
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Darstellung.png
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Darstellung.png
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Darstellung.png
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Darstellung.png
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Sigma.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Sigma.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Sigma.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Sigma.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Sigma.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Zwischenprodukt.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Zwischenprodukt.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Zwischenprodukt.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Zwischenprodukt.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Zwischenprodukt.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\mesomerie.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\mesomerie.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\mesomerie.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\mesomerie.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\mesomerie.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\BisphenolA.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\BisphenolA.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\BisphenolA.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\BisphenolA.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\BisphenolA.jpg
+OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Verwendungszweck.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Verwendungszweck.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Verwendungszweck.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Plastikgeschirr.jpeg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Plastikgeschirr.jpeg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Plastikgeschirr.jpeg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Plastikgeschirr.jpeg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Plastikgeschirr.jpeg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Konserven.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Konserven.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Konserven.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Konserven.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Konserven.jpg
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcrm1095.tfm
-OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Freisetzung.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Freisetzung.tex
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Freisetzung.tex
-OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Politisches.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Politisches.tex
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Politisches.tex
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Interview.tex
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Interview.tex
-OUTPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Fazit.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Fazit.tex
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Fazit.tex
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.bbl
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.bbl
+OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Freisetzung.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Freisetzung.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Freisetzung.tex
+OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Politisches.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Politisches.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Politisches.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Interview.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Interview.tex
+OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Fazit.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Fazit.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Fazit.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.bbl
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.bbl
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmtt10.tfm
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Deckblatt.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Deckblatt.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Inhaltsverzeichnis.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Inhaltsverzeichnis.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Eingenständigkeitserklärung.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Eingenständigkeitserklärung.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorwort.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Vorwort.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Historisches.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Historisches.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Verwendungszweck.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Verwendungszweck.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Freisetzung.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Freisetzung.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Politisches.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Politisches.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Fazit.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Fazit.aux
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
-INPUT c:\Users\jakob\OneDrive\Desktop\test\Bisphenol-A\Main.out
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Deckblatt.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Deckblatt.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Inhaltsverzeichnis.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Inhaltsverzeichnis.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Eingenständigkeitserklärung.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Eingenständigkeitserklärung.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Vorwort.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Vorwort.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Historisches.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Historisches.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Verwendungszweck.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Verwendungszweck.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Freisetzung.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Freisetzung.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Politisches.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Politisches.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Fazit.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Fazit.aux
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.out
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.out
 INPUT C:\Users\jakob\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\jakob\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
