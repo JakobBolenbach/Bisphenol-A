@@ -49,6 +49,20 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\mhchem\mhchem.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\mhchem\mhchem.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\chemgreek\chemgreek.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\chemgreek\chemgreek.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def
@@ -109,8 +123,6 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Deckblatt.aux
@@ -292,6 +304,8 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
