@@ -123,6 +123,8 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfig.sty
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Main.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Deckblatt.aux
@@ -148,8 +150,6 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\grfext\grfext.sty
-INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\grfext\grfext.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\jakob\AppData\Roaming\MiKTeX\2.9\tex\latex\refcount\refcount.sty
@@ -260,6 +260,11 @@ INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Politisches.tex
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Politisches.tex
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Interview.tex
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Interview.tex
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Mario.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Mario.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Mario.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Mario.jpg
+INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Mario.jpg
 OUTPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Fazit.aux
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Fazit.tex
 INPUT d:\Präsentationen\Bispehnol_A_Seminarkurs\Bisphenol-A\Fazit.tex
